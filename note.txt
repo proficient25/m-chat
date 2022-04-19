@@ -1,0 +1,8 @@
+if you want to run this project on your machine you have to follow the step given bilow.
+1. open the project folder in vs code
+2. open a new terminal
+3. write npm install in the terminal and hit enter
+4. Then write npm run div
+ your local server is started
+5. Now go to your browser and type localhost:5000
+
